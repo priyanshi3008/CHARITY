@@ -1,0 +1,19 @@
+body
+{
+    color:#fff;
+    font-size:16px;
+    background-color:#61122f;
+    font-family:'Oxygen', sans-serif;
+}
+.navbar
+{
+    background-color:#f6b319;
+    
+}
+#logo-img
+{
+    background: url(19822_1.png) no-repeat;
+    width:164px;
+    height:158px;
+    margin:10px 25px 10px 0px;
+}
